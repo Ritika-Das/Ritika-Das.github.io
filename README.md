@@ -1,32 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio!
 
-You can use the [editor on GitHub](https://github.com/Ritika-Das/Ritika-Das.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! I am in my penultimate year of study in B.Tech (Electronics and Communication Engineering) at Techno India University.
+I am a self-driven, insightful learner, who is passionate about electronics and computers, and a conversation roller. Having grown my skills in C, HTML and Paint 3D, I am gravitating towards CSS, Python, Java, and Virtual Reality. Dreamt of being an astronomer as a child: inspired by my Grandma's gift of "Amazing Space" by Parragon Books, and starcharts. I yearn for developing my first interactive website. Currently have a lot of tinkering ideas and interesting C projects under my belt.
 
-### Markdown
+### How My Journey Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm obsessed with being flexible, and coming up with overhauled, refreshable solutions. My first memories of programming are of Logo - Turtle at age 9. I tend to latch onto digital circuitry projects more than anything. You can also find me penning down poems out of the blue. I never like to put my abilities at stake. Peak life achievements -
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+⦿ Secured a Silver and two Bronze medals in IEO, NSO and IMO respectively
+⦿ CGPA 10 in 10th standard
+⦿ Awarded Achiever Of The Year'17 by The Times of India
 
-1. Numbered
-2. List
+//**Bold** and _Italic_ and `Code` text
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+//[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
