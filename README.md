@@ -19,15 +19,15 @@ I'm obsessed with being flexible, and coming up with overhauled, refreshable sol
 ⦿ CGPA 10 in 10th standard
 ⦿ Awarded Achiever Of The Year'17 by The Times of India
 
-//**Bold** and _Italic_ and `Code` text
+<!-- **Bold** and _Italic_ and `Code` text
 
-//[Link](url) and ![Image](src)
+//[Link](url) and ![Image](src)-->
 ```
 
-### Jekyll Themes
+<!--### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ritika-Das/Ritika-Das.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ritika-Das/Ritika-Das.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.-->
 
-### Support or Contact
+<!--### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
