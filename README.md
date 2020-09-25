@@ -11,17 +11,13 @@ I'm obsessed with being flexible, and coming up with overhauled, refreshable sol
 
 ```markdown
 
-# Header 1
-## Header 2
-### Header 3
+# Stuff
 
 ⦿ Secured a Silver and two Bronze medals in IEO, NSO and IMO respectively
 ⦿ CGPA 10 in 10th standard
 ⦿ Awarded Achiever Of The Year'17 by The Times of India
 
-<!-- **Bold** and _Italic_ and `Code` text
 
-//[Link](url) and ![Image](src)-->
 ```
 
 <!--### Jekyll Themes
@@ -31,3 +27,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 <!--### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
+<!-- **Bold** and _Italic_ and `Code` text
+
+//[Link](url) and ![Image](src)-->
