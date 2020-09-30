@@ -19,6 +19,8 @@ I'm obsessed with being flexible, and coming up with overhauled, refreshable sol
 
 
 ```
+### Projects
+
 
 <!--### Jekyll Themes
 
